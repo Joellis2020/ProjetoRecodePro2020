@@ -1,0 +1,32 @@
+
+body {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#imagem{
+    width: 170px;
+    padding-top: 10px; 
+}
+
+.box-produto{
+
+    display: inline-block;
+    padding: 25px;
+    text-align: center;
+    width: 250px ;
+    height: 250px ;
+}
+
+
+#botao{
+    margin-top: 20px;
+    width: 200px;
+    border-radius: 10px;
+    box-shadow: 10px 10px 10px 10px white inset;
+    color:purple;
+    font-weight: bold;
+}
+
+
+
+
